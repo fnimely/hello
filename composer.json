@@ -1,0 +1,14 @@
+{
+  "name": "fnimelyg/328/hello",
+  "description": "My first MVC F# Project",
+  "license": "open source",
+  "authors": [
+    {
+      "name": "Facsimile Nimely",
+      "email": "nimely.facsimile@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
